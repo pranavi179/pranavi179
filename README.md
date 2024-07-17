@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Pranavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavi179)](https://github.com/pranavi179/github-readme-stats)
 
 <!--
 **pranavi179/pranavi179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
