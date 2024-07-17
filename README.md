@@ -1,6 +1,7 @@
 ## Hi there 👋
-I'm a self-taught Product Manager from India.
-**About me**
+Pranavi here, a self-taught Product Manager from India.
+
+</br>
 🔭 I’m currently working as a Product manager, occasionally a developer & Figma Designer
     Community Creator in Product Space
     Volunteer in the Product Hunt community
@@ -10,7 +11,7 @@ I'm a self-taught Product Manager from India.
 
 🌱 I’m currently learning Core PM Skills, Entrepreneurship, Animal & human psychology
 
-💬 Ask me about Startups, Products(Features, Feedback & suggestions), Animals(Mainly Dogs), communities, and why things (Feed my brain to think) 
+💬 Ask me about Startups, Products(Features, Feedback & suggestions), Animals(Mainly Dogs), arts, technology, communities, and why things (Feed my brain to think) 
 
 📫 Reach me out at:
 
