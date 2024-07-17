@@ -15,11 +15,12 @@ I'm a self-taught Product Manager from India.
 📫 How to reach me:
 <a href="[https://twitter.com/anuraghazru](https://x.com/Pranavi9228)">
   <img align="center" alt="Pranavi | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
+</a> |
+
 <a href="https://www.producthunt.com/@pranavi_p"> Product Hunt
-</a>
+</a> | 
 <a href="https://www.linkedin.com/in/pranavi-p/"> LinkedIn
-</a>
+</a> | 
 <a href="https://pranavivel17.substack.com/">Substack Blog
 </a>
 
