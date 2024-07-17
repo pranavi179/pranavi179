@@ -12,19 +12,12 @@ I'm a self-taught Product Manager from India.
 
 💬 Ask me about Startups, Products(Features, Feedback & suggestions), Animals(Mainly Dogs), communities, and why things (Feed my brain to think) 
 
-📫 How to reach me:
-<a href="[https://twitter.com/anuraghazru](https://x.com/Pranavi9228)">
-  <img align="center" alt="Pranavi | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a> |
+📫 Reach me out at:
 
-<a href="https://www.producthunt.com/@pranavi_p"> Product Hunt
-</a> | 
-<a href="https://www.linkedin.com/in/pranavi-p/"> LinkedIn
-</a> | 
-<a href="https://pranavivel17.substack.com/">Substack Blog
-</a>
+<a href="https://x.com/Pranavi9228"> Twitter </a> |  <a href="https://www.producthunt.com/@pranavi_p"> Product Hunt </a> |  <a href="https://www.linkedin.com/in/pranavi-p/"> LinkedIn </a> |  <a href="https://pranavivel17.substack.com/">Substack Blog </a> |   <a href = "https://discord.gg/uD2SwEUB"> Discord </a> |   <a href ="https://topmate.io/pranavi/ "> Book a meeting with me on Topmate - ZERO charges </a>
 
 [![Pranavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavi179&show_icons=true&theme=radical)](https://github.com/pranavi179/github-readme-stats)
+
 <!--
 **pranavi179/pranavi179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
